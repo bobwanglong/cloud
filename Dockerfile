@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/sig-storage/local-volume-provisioner:v2.4.0
+FROM gcr.io/heptio-images/ks-guestbook-demo:0.2
